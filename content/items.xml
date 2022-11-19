@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+    <active quality="1" cooldown="120" description="Let there be light" gfx="Collectibles_041_MomsPad.png" maxcharges="1" name="Holy Rebound" hidden="true" achievement="9999" chargetype="timed"/>
+</items>

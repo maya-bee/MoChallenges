@@ -1,3 +1,4 @@
 <challenges version="1">
-    <challenge playertype="2" name="Choose wisely" endstage="8" startingitems="253,628" roomfilter="4,12,14,15,24,27" canshoot="true" difficulty="1" secretpath="false"/>
+    <challenge playertype="2" name="Choose wisely" endstage="6" startingitems="253,628" roomfilter="4,12,14,15,24,27" canshoot="true" difficulty="1" secretpath="false"/>
+    <challenge playertype="37" name="Heretic" endstage="6" canshoot="true" difficulty="0" secretpath="false"/>
 </challenges>
